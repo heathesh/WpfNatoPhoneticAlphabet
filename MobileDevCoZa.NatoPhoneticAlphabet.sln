@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDevCoZa.NatoPhoneticAlphabet.UI", "MobileDevCoZa.NatoPhoneticAlphabet.UI\MobileDevCoZa.NatoPhoneticAlphabet.UI.csproj", "{4D086A71-908D-4071-A79F-7CCC525FEEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDevCoZa.NatoPhoneticAlphabet.Model", "MobileDevCoZa.NatoPhoneticAlphabet.Model\MobileDevCoZa.NatoPhoneticAlphabet.Model.csproj", "{B1CCB795-02CF-4916-98EC-4130D7D1D0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDevCoZa.NatoPhoneticAlphabet.BusinessLogic", "MobileDevCoZa.NatoPhoneticAlphabet.BusinessLogic\MobileDevCoZa.NatoPhoneticAlphabet.BusinessLogic.csproj", "{D6810FB8-EED3-4022-A28B-AB0E2848D8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDevCoZa.NatoPhoneticAlphabet.Interface", "MobileDevCoZa.NatoPhoneticAlphabet.Interface\MobileDevCoZa.NatoPhoneticAlphabet.Interface.csproj", "{EEBC77F1-2AA6-4B01-8700-B0DBA02FCE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDevCoZa.NatoPhoneticAlphabet.ViewModel", "MobileDevCoZa.NatoPhoneticAlphabet.ViewModel\MobileDevCoZa.NatoPhoneticAlphabet.ViewModel.csproj", "{AD278063-4E12-4B55-A650-70455D4CF57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D086A71-908D-4071-A79F-7CCC525FEEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D086A71-908D-4071-A79F-7CCC525FEEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D086A71-908D-4071-A79F-7CCC525FEEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D086A71-908D-4071-A79F-7CCC525FEEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CCB795-02CF-4916-98EC-4130D7D1D0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CCB795-02CF-4916-98EC-4130D7D1D0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CCB795-02CF-4916-98EC-4130D7D1D0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CCB795-02CF-4916-98EC-4130D7D1D0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6810FB8-EED3-4022-A28B-AB0E2848D8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6810FB8-EED3-4022-A28B-AB0E2848D8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6810FB8-EED3-4022-A28B-AB0E2848D8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6810FB8-EED3-4022-A28B-AB0E2848D8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBC77F1-2AA6-4B01-8700-B0DBA02FCE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBC77F1-2AA6-4B01-8700-B0DBA02FCE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBC77F1-2AA6-4B01-8700-B0DBA02FCE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBC77F1-2AA6-4B01-8700-B0DBA02FCE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD278063-4E12-4B55-A650-70455D4CF57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD278063-4E12-4B55-A650-70455D4CF57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD278063-4E12-4B55-A650-70455D4CF57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD278063-4E12-4B55-A650-70455D4CF57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
